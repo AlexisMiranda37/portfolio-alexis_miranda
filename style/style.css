@@ -14,6 +14,7 @@ e8f1f2-anti-flash white
       text-align:left;
       max-width: 80%;
       margin: 0 auto;
+
   }
 
   h1{
@@ -27,6 +28,7 @@ e8f1f2-anti-flash white
   border: .4em solid #18314F;
   border-radius: .4em;
   padding: 1%;
+  box-shadow: 10px 10px 10px;
   }
 
   h2{
