@@ -81,10 +81,29 @@ section p {
 
 /* Change this style */
 #biggerText {
-
+font-size: 1.6em
 }
 
 /* Change this style */
 .indent {
+margin-left:17%;
+font-size: 1em
+}
 
+#indent{
+margin-left: 8%;
+font-size: 2em
+}
+
+#leftMargin1{
+margin-left: 8%
+}
+
+#leftMargin2{
+  margin-left: 8%;
+  font-size: 2em
+}
+
+#leftMargin3{
+  margin-left: 8%
 }
