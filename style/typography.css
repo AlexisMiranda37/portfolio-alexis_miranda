@@ -161,7 +161,6 @@ margin-left: 8%
   height: 500px;
   width: 800px;
   margin: 0 auto;
-  text-align: center;
   font-weight: 400;
   line-height: 125%;
   letter-spacing: 2.15px;
@@ -169,4 +168,41 @@ margin-left: 8%
 .style{
   font-weight: 800;
   letter-spacing: 2;
+}
+#style1{
+font-size: 1.7em;
+color: #fff;
+margin-left: 35%;
+width: 40%;
+padding-bottom: 180px;
+line-height: 120%;
+font-style: italic;
+text-shadow: 5px 5px 10px #000;
+
+
+}
+#style2{
+  margin-left: 47%;
+  font-size: 1.60em;
+  color: #BD632F;
+  text-shadow: 3px 3px 3px #fff
+}
+#style3{
+color: #BD632F;
+margin-left: 47%;
+font-size: 1.60em;
+text-shadow: 3px 3px 3px #fff;
+}
+#style4{
+color: #BD632F;
+margin-left: 47%;
+font-size: 1.60em;
+text-shadow: 3px 3px 3px #fff;
+}
+#style5{
+color: #BD632F;
+font-size: 1.7em;
+text-align: left;
+margin-left:  5%;
+text-shadow: 3px 3px 3px #fff;
 }
