@@ -1,0 +1,154 @@
+/*
+011936-maastricht blue
+18314f-space cadet
+00679b-sea blue
+406e8e-queen blue
+e8f1f2-anti-flash white
+*/
+  body {
+      font-size: 1em;
+      font-weight: normal;
+      font-family: ariel, sans-serif;
+      color: #000;
+      background-color: #00679B;
+      text-align:left;
+      max-width: 80%;
+      margin: 0 auto;
+
+  }
+
+  h1{
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  background-color: #406E8E;
+  width: auto;
+  height: auto;
+  border: .4em solid #18314F;
+  border-radius: .4em;
+  padding: 1%;
+  box-shadow: 0px 10px 10px;
+  }
+
+  h2{
+    text-align: center;
+    border:3px solid #011936;
+    text-decoration: none;
+    color: #fff;
+    background-color: #406E8E;
+    width: auto;
+    height: auto;
+    border: .4em solid #18314F;
+    border-radius: .4em
+    padding: 1%
+  }
+
+  ul{
+    border:3px solid #011936;
+    text-decoration: none;
+    color: #fff;
+    background-color: #406E8E;
+    width: auto;
+    height: auto;
+    border: .5em solid #18314F;
+    border-radius: .5em;
+  }
+
+  a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #406E8E;
+  }
+
+  p{
+    color: #E8F1F2
+  }
+
+    h2{
+      color: #fff;
+    }
+#line1{
+  font-size: 2.30em;
+  color: #fff;
+  font-family: serif;
+}
+#line2{
+font-size: 1.5em;
+margin-left: 35%;
+color: #fff;
+}
+#line3{
+font-size: 1.5em;
+margin-left: 35%;
+color: #fff;
+}
+#line4{
+font-size: 1.5em;
+margin-left: 35%;
+color: #fff;
+}
+#line5{
+  font-size: 1.5em;
+  margin-left: 35%;
+  color: #fff;
+}
+#line6{
+font-size: 1.5em;
+margin-left: 35%;
+color: #fff;
+}
+#line7{
+font-size: 1.5em;
+margin-left: 35%;
+color: #fff;
+}
+#line8{
+font-size: 1.5em;
+margin-left: 35%;
+color: #fff;
+}
+#line9{
+font-size: 1.5em;
+margin-left: 75%;
+color: #fff;
+font-family: serif;
+}
+.alllines{
+  border: .4em solid #18314F;
+  background-color: #000;
+  border-radius: 1em;
+  color: #fff;
+  font-family: serif;
+  padding: 1%;
+  box-shadow: 0px 10px 10px;
+  text-shadow: 3px 3px 3px #ECC30B;
+
+}
+.secondquote{
+  border: .4em solid #18314F;
+  background-color: #000;
+  border-radius: 1em;
+  font-family: serif;
+  color: #fff;
+  font-size: 1.5em;
+  padding: 2%;
+  box-shadow: 0px 10px 10px;
+  text-shadow: 3px 3px 3px #ECC30B;
+}
+#sqline1{
+text-align: left;
+margin-left: 35%
+}
+#sqline2{
+text-align: center;
+margin-right: 20%
+}
+#sqline3{
+text-align: center;
+margin-right: 6%
+}
+#sqline4{
+text-align: right;
+margin-right: 13%
+}
