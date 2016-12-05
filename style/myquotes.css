@@ -70,59 +70,53 @@ e8f1f2-anti-flash white
     }
 #line1{
   font-size: 2.30em;
-  color: #fff;
+
   font-family: serif;
 }
 #line2{
 font-size: 1.5em;
 margin-left: 35%;
-color: #fff;
+
 }
 #line3{
 font-size: 1.5em;
 margin-left: 35%;
-color: #fff;
+
 }
 #line4{
 font-size: 1.5em;
 margin-left: 35%;
-color: #fff;
 }
 #line5{
   font-size: 1.5em;
   margin-left: 35%;
-  color: #fff;
 }
 #line6{
 font-size: 1.5em;
 margin-left: 35%;
-color: #fff;
 }
 #line7{
 font-size: 1.5em;
 margin-left: 35%;
-color: #fff;
 }
 #line8{
 font-size: 1.5em;
 margin-left: 35%;
-color: #fff;
 }
 #line9{
 font-size: 1.5em;
 margin-left: 75%;
-color: #fff;
-font-family: serif;
 }
 .alllines{
   border: .4em solid #18314F;
-  background-color: #000;
   border-radius: 1em;
-  color: #fff;
+  color: #FBFBFF;
   font-family: serif;
   padding: 1%;
   box-shadow: 0px 10px 10px;
-  text-shadow: 3px 3px 3px #ECC30B;
+  text-shadow: 3px 3px 3px #000;
+  line-height: 2.0em;
+  background-image: url("../images/success.PNG");
 
 }
 .secondquote{
@@ -135,6 +129,8 @@ font-family: serif;
   padding: 2%;
   box-shadow: 0px 10px 10px;
   text-shadow: 3px 3px 3px #ECC30B;
+  line-height: 2.0em
+
 }
 #sqline1{
 text-align: left;
