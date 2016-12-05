@@ -116,12 +116,12 @@ margin-left: 75%;
   box-shadow: 0px 10px 10px;
   text-shadow: 3px 3px 3px #000;
   line-height: 2.0em;
-  background-image: url("../images/success.PNG");
+  background-image: url("../images/succe.PNG");
+  padding-bottom: 5em;
 
 }
 .secondquote{
   border: .4em solid #18314F;
-  background-color: #000;
   border-radius: 1em;
   font-family: serif;
   color: #fff;
@@ -129,7 +129,10 @@ margin-left: 75%;
   padding: 2%;
   box-shadow: 0px 10px 10px;
   text-shadow: 3px 3px 3px #ECC30B;
-  line-height: 2.0em
+  line-height: 2.0em;
+  background-image: url("../images/sunset.PNG");
+  padding-bottom: 5em;
+  padding-top: 3em;
 
 }
 #sqline1{
