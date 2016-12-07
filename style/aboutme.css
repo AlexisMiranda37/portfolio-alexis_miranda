@@ -1,0 +1,80 @@
+/*
+011936-maastricht blue
+18314f-space cadet
+00679b-sea blue
+406e8e-queen blue
+e8f1f2-anti-flash white
+*/
+  body {
+      font-size: 1em;
+      font-weight: normal;
+      font-family: ariel, sans-serif;
+      color: #000;
+      background-color: #00679B;
+      text-align:left;
+      max-width: 80%;
+      margin: 0 auto;
+
+  }
+
+  h1{
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  background-color: #406E8E;
+  width: auto;
+  height: auto;
+  border: .4em solid #18314F;
+  border-radius: .4em;
+  padding: 1%;
+  box-shadow: 0px 10px 10px;
+  }
+
+
+
+  ul{
+    border:3px solid #011936;
+    text-decoration: none;
+    color: #fff;
+    background-color: #406E8E;
+    width: auto;
+    height: auto;
+    border: .5em solid #18314F;
+    border-radius: .5em;
+  }
+
+  a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #406E8E;
+  }
+
+  
+
+
+#aboutmePhoto{
+  margin-left: 25%;
+  border: .5em solid #18314F;
+  border-radius: .5em;
+  max-width: 50.65%;
+}
+.bioDetails{
+  border-radius: .5em;
+  color: #fff;
+  background-color: #406E8E;
+  border: .4em solid #18314F;
+  padding: 1%;
+}
+h2{
+  text-align: center;
+  border:3px solid #011936;
+  text-decoration: none;
+  color: #fff;
+  background-color: #406E8E;
+  width: auto;
+  height: auto;
+  border: .4em solid #18314F;
+  border-radius: .4em;
+  padding: 1%
+}
