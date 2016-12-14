@@ -26,7 +26,7 @@ e8f1f2-anti-flash white
   width: auto;
   height: auto;
   border: .4em solid #18314F;
-  border-radius: .4em;
+  border-radius: 1em;
   padding: 1%;
   box-shadow: 0px 10px 10px;
   }
@@ -40,7 +40,7 @@ e8f1f2-anti-flash white
     width: auto;
     height: auto;
     border: .4em solid #18314F;
-    border-radius: .4em
+    border-radius: 1em;
     padding: 1%
   }
 
@@ -75,37 +75,37 @@ e8f1f2-anti-flash white
 }
 #line2{
 font-size: 1.5em;
-margin-left: 35%;
+margin-left: 40%;
 
 }
 #line3{
 font-size: 1.5em;
-margin-left: 35%;
+margin-left: 40%;
 
 }
 #line4{
 font-size: 1.5em;
-margin-left: 35%;
+margin-left: 40%;
 }
 #line5{
   font-size: 1.5em;
-  margin-left: 35%;
+  margin-left: 40%;
 }
 #line6{
 font-size: 1.5em;
-margin-left: 35%;
+margin-left: 40%;
 }
 #line7{
 font-size: 1.5em;
-margin-left: 35%;
+margin-left: 40%;
 }
 #line8{
 font-size: 1.5em;
-margin-left: 35%;
+margin-left: 40%;
 }
 #line9{
 font-size: 1.5em;
-margin-left: 75%;
+margin-left: 85%;
 }
 .alllines{
   border: .4em solid #18314F;
