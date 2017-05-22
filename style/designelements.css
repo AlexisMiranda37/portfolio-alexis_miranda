@@ -1,0 +1,57 @@
+body {
+	font: 100% Cantarell, Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	position: relative;
+	background: #fff;
+	color: rgb(76, 67, 65);
+	font-weight:normal;
+	font-style:normal;
+}
+.logo{
+  text-align: center;
+}
+a {
+	text-decoration: none;
+	color: rgb(219,126,64);
+	border-bottom: 1px dotted rgb(219,126,64);
+}
+
+
+html {
+	background: #1598EA;
+}
+
+
+nav ul {
+	list-style: none;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+body {
+	width: 1180px;
+	margin: 0 auto;
+}
+
+header {
+	height: 165px;
+}
+
+article {
+	float: left;
+	width: 800px;
+	padding-left: 50px;
+}
+
+#feild{
+  border: 4px black solid;
+  border-radius: 25px;
+  max-width:= 50;
+  margin-left: 5px;
+}
