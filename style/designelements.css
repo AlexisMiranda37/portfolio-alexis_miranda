@@ -55,3 +55,15 @@ article {
   max-width:= 50;
   margin-left: 5px;
 }
+.right{
+	width: 30%;
+	height:455px;
+	float: right;
+
+}
+.left{
+	width: 70%;
+	height:455px;
+	padding-left: 5px;
+	
+}
